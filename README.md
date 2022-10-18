@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fcogustavo
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python and JavaScript
+- 🌱 I'm currently studying Python, HTML, CSS and JavaScript with Node.JS
 - 📫 How to reach me - email: gustavocmdb@gmail.com
 
 <!---
